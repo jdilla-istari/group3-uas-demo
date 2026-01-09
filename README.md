@@ -4,7 +4,7 @@ AIAA Hands-on Demo - Optimize a UAV wing design to meet system requirements.
 
 ## Quick Start
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/group3-uas-demo/blob/main/group3_uas_optimization.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jdilla-istari/group3-uas-demo/blob/main/group3_uas_optimization.ipynb)
 
 ## Overview
 
