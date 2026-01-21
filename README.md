@@ -1,6 +1,7 @@
 # Group 3 UAS Wing Optimization
 
-AIAA Hands-on Demo - Optimize a UAV wing design to meet system requirements.
+MIT Aero/Astro Digital Tools and Workflows 
+Istari Digital Hands-on Demo - Optimize a UAV wing design to meet system requirements.
 
 ## Quick Start
 
@@ -24,7 +25,7 @@ You've been brought onto a project with a failing aircraft design. The current w
 ## How to Use
 
 1. Open the notebook in Google Colab
-2. Enter your Istari PAT and name
+2. Enter your Istari Digital PAT and name
 3. Adjust wing parameters using the sliders
 4. Run the analysis
 5. Iterate to find the lowest weight design that passes all requirements
